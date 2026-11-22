@@ -1,0 +1,8 @@
+httpx==0.28.1
+mcp[cli]==2.3.0
+pydantic==2.14.4
+python-dotenv==1.2.2
+PyMuPDF==1.26.7
+Pillow==12.3.0
+pydub==0.25.1
+audioop-lts==0.2.2; python_version >= '3.13'
